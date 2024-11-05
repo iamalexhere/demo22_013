@@ -1,1 +1,2 @@
 ini file 1
+//disini saya edit
